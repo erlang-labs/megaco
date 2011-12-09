@@ -68,9 +68,8 @@
         </item>
 
         <item>
-	  <p>The flex driver has been updated (along with all other drivers)
-	  to support the new driver format. This change may effect the
-	  ability to build and/or use the driver without reentrant support. </p>
+	  <p>The flex driver has been updated to support the new driver format
+	  (changed to enable 64-bit aware drivers). </p>
           <p>Own Id: OTP-9795</p>
         </item>
 
@@ -97,10 +96,9 @@
 
     <section>
       <title>Incompatibilities</title>
-<!--
       <p>-</p>
--->
 
+<!--
       <list type="bulleted">
         <item>
 	  <p>Due to the change in the flex driver API, 
@@ -110,6 +108,7 @@
         </item>
 
       </list>
+-->
 
     </section>
 
